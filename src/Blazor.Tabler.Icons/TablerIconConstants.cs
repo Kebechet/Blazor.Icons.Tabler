@@ -4693,6 +4693,8 @@ public static class TablerIconConstants
     public const string Plant2Off = "ti ti-plant-2-off";
     public const string PlantOff = "ti ti-plant-off";
     public const string PlayBasketball = "ti ti-play-basketball";
+    public const string PlayBug = "ti ti-play-bug";
+    public const string PlayBugs = "ti ti-play-bugs";
     public const string PlayCard = "ti ti-play-card";
     public const string PlayCard1 = "ti ti-play-card-1";
     public const string PlayCard1Filled = "tif tif-play-card-1";
@@ -4924,6 +4926,7 @@ public static class TablerIconConstants
     public const string RelationOneToOne = "ti ti-relation-one-to-one";
     public const string RelationOneToOneFilled = "tif tif-relation-one-to-one";
     public const string Reload = "ti ti-reload";
+    public const string RemoteControl = "ti ti-remote-control";
     public const string Reorder = "ti ti-reorder";
     public const string Repeat = "ti ti-repeat";
     public const string RepeatOff = "ti ti-repeat-off";
@@ -4973,6 +4976,7 @@ public static class TablerIconConstants
     public const string RobotOff = "ti ti-robot-off";
     public const string Rocket = "ti ti-rocket";
     public const string RocketOff = "ti ti-rocket-off";
+    public const string RockingChair = "ti ti-rocking-chair";
     public const string RollerSkating = "ti ti-roller-skating";
     public const string Rollercoaster = "ti ti-rollercoaster";
     public const string RollercoasterFilled = "tif tif-rollercoaster";
@@ -5032,6 +5036,7 @@ public static class TablerIconConstants
     public const string RulerMeasure2 = "ti ti-ruler-measure-2";
     public const string RulerOff = "ti ti-ruler-off";
     public const string Run = "ti ti-run";
+    public const string RunSprint = "ti ti-run-sprint";
     public const string RvTruck = "ti ti-rv-truck";
     public const string STurnDown = "ti ti-s-turn-down";
     public const string STurnLeft = "ti ti-s-turn-left";
@@ -5320,6 +5325,7 @@ public static class TablerIconConstants
     public const string Sparkles = "ti ti-sparkles";
     public const string Sparkles2 = "ti ti-sparkles-2";
     public const string Sparkles2Filled = "tif tif-sparkles-2";
+    public const string Sparkles2Off = "ti ti-sparkles-2-off";
     public const string SparklesFilled = "tif tif-sparkles";
     public const string Speakerphone = "ti ti-speakerphone";
     public const string Speedboat = "ti ti-speedboat";
@@ -5719,6 +5725,7 @@ public static class TablerIconConstants
     public const string TableShare = "ti ti-table-share";
     public const string TableShortcut = "ti ti-table-shortcut";
     public const string TableSpark = "ti ti-table-spark";
+    public const string Tabs = "ti ti-tabs";
     public const string Tag = "ti ti-tag";
     public const string TagFilled = "tif tif-tag";
     public const string TagMinus = "ti ti-tag-minus";
@@ -5726,6 +5733,10 @@ public static class TablerIconConstants
     public const string TagPlus = "ti ti-tag-plus";
     public const string TagStarred = "ti ti-tag-starred";
     public const string Tags = "ti ti-tags";
+    public const string TagsChevronDown = "ti ti-tags-chevron-down";
+    public const string TagsChevronLeft = "ti ti-tags-chevron-left";
+    public const string TagsChevronRight = "ti ti-tags-chevron-right";
+    public const string TagsChevronUp = "ti ti-tags-chevron-up";
     public const string TagsFilled = "tif tif-tags";
     public const string TagsOff = "ti ti-tags-off";
     public const string TaiwanDollar = "ti ti-taiwan-dollar";
@@ -5794,6 +5805,9 @@ public static class TablerIconConstants
     public const string Texture = "ti ti-texture";
     public const string Theater = "ti ti-theater";
     public const string Thermometer = "ti ti-thermometer";
+    public const string ThinkingHigh = "ti ti-thinking-high";
+    public const string ThinkingLow = "ti ti-thinking-low";
+    public const string ThinkingMedium = "ti ti-thinking-medium";
     public const string ThumbDown = "ti ti-thumb-down";
     public const string ThumbDownFilled = "tif tif-thumb-down";
     public const string ThumbDownOff = "ti ti-thumb-down-off";
@@ -5907,6 +5921,7 @@ public static class TablerIconConstants
     public const string TrashX = "ti ti-trash-x";
     public const string TrashXFilled = "tif tif-trash-x";
     public const string Treadmill = "ti ti-treadmill";
+    public const string TreasureChest = "ti ti-treasure-chest";
     public const string Tree = "ti ti-tree";
     public const string Trees = "ti ti-trees";
     public const string Trekking = "ti ti-trekking";
@@ -5942,6 +5957,7 @@ public static class TablerIconConstants
     public const string TruckLoading = "ti ti-truck-loading";
     public const string TruckOff = "ti ti-truck-off";
     public const string TruckReturn = "ti ti-truck-return";
+    public const string Twig = "ti ti-twig";
     public const string Txt = "ti ti-txt";
     public const string Typeface = "ti ti-typeface";
     public const string Typography = "ti ti-typography";
@@ -6014,6 +6030,7 @@ public static class TablerIconConstants
     public const string VariableMinus = "ti ti-variable-minus";
     public const string VariableOff = "ti ti-variable-off";
     public const string VariablePlus = "ti ti-variable-plus";
+    public const string Vault = "ti ti-vault";
     public const string Vector = "ti ti-vector";
     public const string VectorBezier = "ti ti-vector-bezier";
     public const string VectorBezier2 = "ti ti-vector-bezier-2";
@@ -6187,6 +6204,7 @@ public static class TablerIconConstants
     public const string XboxYFilled = "tif tif-xbox-y";
     public const string Xd = "ti ti-xd";
     public const string Xxx = "ti ti-xxx";
+    public const string Yarn = "ti ti-yarn";
     public const string YinYang = "ti ti-yin-yang";
     public const string YinYangFilled = "tif tif-yin-yang";
     public const string Yoga = "ti ti-yoga";
